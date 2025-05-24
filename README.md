@@ -72,7 +72,6 @@ The goal is to help researchers, developers, and cybersecurity professionals und
 ## **Contributors**
 - Md. Monowarul Islam  
 - Fardous Nayeem  
-- Md. Meheraj Hossain
 
 ---
 
