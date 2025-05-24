@@ -76,7 +76,7 @@ The goal is to help researchers, developers, and cybersecurity professionals und
 
 ---
 
-## **How to Use**
+## **How to Run on your machine**
 To reproduce the results:
 1. Clone this repository.
 2. Download dataset. [https://drive.google.com/drive/folders/1JOLRaqb7fSOKuoutwTlEFtrai_y2M_tl?usp=drive_link]
