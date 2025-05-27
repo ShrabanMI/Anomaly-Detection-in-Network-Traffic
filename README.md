@@ -64,7 +64,6 @@ The goal is to help researchers, developers, and cybersecurity professionals und
   - High accuracy
   - Better handling of class imbalance
   - Faster training
-  - Improved interpretability
 - **Deep Learning models (LSTM, MLP)**, while powerful, require more balanced and sequential data to perform well. Alongside that, model like LSTM will perform better in detecting sequential attacks.
 
 ---
