@@ -87,7 +87,7 @@ To reproduce the results:
 
 ## **References**
 - Dataset: BCCC-CIC-IDS2017  
-- Libraries used: Scikit-learn, TensorFlow, Pandas, NumPy  
+- Libraries used: Scikit-learn, XGBoost, CatBoost, TensorFlow, Pandas, NumPy  
 - Tools: Jupyter Notebook, Python
 
 --- 
