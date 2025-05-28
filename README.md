@@ -85,7 +85,7 @@ To reproduce the results:
 ---
 
 ## **References**
-- Dataset: BCCC-CIC-IDS2017  
+- Dataset: BCCC-CIC-IDS2017 [Behaviour-Centric Cybersecurity Center Canadian Institute for Cyybersecurity, York University]
 - Libraries used: Scikit-learn, XGBoost, CatBoost, TensorFlow, Pandas, NumPy  
 - Tools: Jupyter Notebook, Python
 
